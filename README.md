@@ -2,11 +2,11 @@
 
 <h4 align="center">
     <a href="https://github.com/iamsaeeddev/svelte-questions">
-        <img src="https://raw.githubusercontent.com/iamsaeeddev/svelte-questions/master/logo.png">
+        <img src="https://raw.githubusercontent.com/iamsaeeddev/svelte-interview-questions/master/logo.png">
     </a>
 </h4>
 
-> JavaScript concepts and Questions related to Svelte
+> Concepts and Questions related to Svelte
 
 # Questions
 ## Q.1 What is Svelte?
