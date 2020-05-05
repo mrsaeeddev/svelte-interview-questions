@@ -1,0 +1,1 @@
+There aren't any hard and fast rules for contributing. If you want something to be improved or want to add something or may be something is not clear to you, just open a PR. We will be there to respond to you as early as possible.
