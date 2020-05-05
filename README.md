@@ -1,4 +1,11 @@
 # Svelte Questions
+
+<h4 align="center">
+    <a href="https://github.com/iamsaeeddev/svelte-questions">
+        <img src="https://raw.githubusercontent.com/iamsaeeddev/svelte-questions/master/logo.png">
+    </a>
+</h4>
+
 > JavaScript concepts and Questions related to Svelte
 
 # Questions
