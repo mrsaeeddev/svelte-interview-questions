@@ -28,4 +28,6 @@ At the heart of modern interactive web applications is the concept of reactivity
 ## Q.4 How do modern frameworks other than Svelte make it possible to develop reactive apps?
 The introduction of modern asynchronous and event-driven web app frameworks such as React, Angular and Vue made it possible to develop such reactive apps. To that end they use various techniques (such as the Virtual DOM) that interpret the app code in the background, making it possible to update individual elements of the app without having to refresh the entire HTML page.
 
+## Q.5 How reactive apps built using Svelte are different from those built using other modern frameworks?
+Svelte aims to compile the code your write at build time, so that only pure JavaScript that directly manipulates the DOM ever makes it to the browser. That’s why it calls itself the “disappearing framework” – by the time the app’s code appears in the browser, there is really no framework anymore.
 
