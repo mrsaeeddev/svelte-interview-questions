@@ -31,3 +31,7 @@ The introduction of modern asynchronous and event-driven web app frameworks such
 ## Q.5 How reactive apps built using Svelte are different from those built using other modern frameworks?
 Svelte aims to compile the code your write at build time, so that only pure JavaScript that directly manipulates the DOM ever makes it to the browser. That’s why it calls itself the “disappearing framework” – by the time the app’s code appears in the browser, there is really no framework anymore.
 
+## Q.6 What are main advantages of Svelte compared to other frameworks?
+- Write less code: Svelte aims to let you build boilerplate-free components using languages you already know i.e HTML, CSS, JavaScript
+- No virtual DOM: Svelte compiles your code to tiny, framework-less vanilla JS — your app starts fast and stays fast
+- Truly reactive: No more complex state management libraries — Svelte brings reactivity to JavaScript itself
