@@ -35,3 +35,7 @@ Svelte aims to compile the code your write at build time, so that only pure Java
 - Write less code: Svelte aims to let you build boilerplate-free components using languages you already know i.e HTML, CSS, JavaScript
 - No virtual DOM: Svelte compiles your code to tiny, framework-less vanilla JS — your app starts fast and stays fast
 - Truly reactive: No more complex state management libraries — Svelte brings reactivity to JavaScript itself
+
+## Q.7 Does Svelte support SSR and mobile app development?
+Yes. Svelte has [Sapper](https://github.com/sveltejs/sapper), similar to Next.js of React and Nuxt.js of Vue for SSR. SSR can speed up the first render of your app and improve its SEO.
+For mobile app development, there’s [Svelte-Native](https://github.com/halfnelson/svelte-native). It works on top of NativeScript.
